@@ -1,0 +1,16 @@
+﻿1. This code is about a "game" where a gilded si selling goods. The quality of the goods are constantly degrading through time.
+Some specific goods increase their quality through time. The main purpose is to implement new features to allows the guilded to sell new items.
+
+2. The goods are +5 Dexterity Vest/aged brie/sulfuras/Elixir of the Mongoose/Backstage passes/Conjured Mana Cake. They can be seen in the Program.cs file. 
+
+3. When the day is over, Dexterity Vest and Elixir of the Mongoose will lose 1 point of quality. Sulfuras' quality won't change. Aged Brie and Backstage Passes
+will actually increase their quality by 1. Conjured Mana Cake item is supposed to degrade in quality twice as fast as the others, but it's acutally not the case.
+
+4. 
+
+5. The quality of the good drop to 0 once the concert ticket goes over its expiration date
+
+6. The name of class/variables make this code hard to read
+
+7. Not really because I'm not an expert. Furthermore, despite the fact that the basic organisation of the solution is quite simple, we have no more information about what features
+can optimize the solution. It's a bit vast. 
